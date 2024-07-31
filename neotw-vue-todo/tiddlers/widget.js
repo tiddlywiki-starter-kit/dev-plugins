@@ -91,25 +91,25 @@ class VueTodoWidget extends Widget {
         messages,
       });
 
-      const {
-        createNotivue,
-      } = require('$:/plugins/oeyoews/notivue/notivue.js');
+      // const {
+      //   createNotivue,
+      // } = require('$:/plugins/oeyoews/notivue/notivue.js');
 
-      const notivue = createNotivue({
-        position: 'top-center',
-        limit: 3,
-        enqueue: true,
-        notifications: {
-          global: {
-            duration: 1500,
-          },
-        },
-      });
+      // const notivue = createNotivue({
+      //   position: 'top-center',
+      //   limit: 3,
+      //   enqueue: true,
+      //   notifications: {
+      //     global: {
+      //       duration: 1500,
+      //     },
+      //   },
+      // });
 
       app.use(i18n);
-      app.use(notivue);
+      // app.use(notivue);
 
-      app.directive('draggable', vDraggable);
+      // app.directive('draggable', vDraggable);
 
       app.config.errorHandler = (err) => {
         const text = `[Vue3](${app.version}): ` + err;

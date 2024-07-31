@@ -1,7 +1,7 @@
 <template>
-  <Notivue v-slot="item">
+  <!-- <Notivue v-slot="item">
     <Notification :item="item" />
-  </Notivue>
+  </Notivue> -->
   <!-- NOTE: vue.config.js 出现在 tabs 里面, vscode 就不会有报错了 -->
   <h2>
     {{ t('todo.title') }}

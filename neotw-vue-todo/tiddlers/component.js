@@ -116,7 +116,7 @@ const todo = (json = 'todo.json') => {
           this.todos[currentTodoIndex].date = new Date().toLocaleString();
         }
         this.cancelEdit(id);
-        this.notify(this.t('todo.save'));
+        // this.notify(this.t('todo.save'));
       },
 
       cancelEdit() {
@@ -125,10 +125,10 @@ const todo = (json = 'todo.json') => {
       },
 
       // notify
-      notify(msg = 'notify', type = 'success', timeout = 2000) {
-        // push[type](msg);
-        push.success(msg);
-      },
+      // notify(msg = 'notify', type = 'success', timeout = 2000) {
+      //   // push[type](msg);
+      //   push.success(msg);
+      // },
 
       // toggle language
       toggleLang() {
@@ -145,7 +145,7 @@ const todo = (json = 'todo.json') => {
           // editing: false
         });
         this.newTodo = '';
-        this.notify(this.t('todo.notify'));
+        // this.notify(this.t('todo.notify'));
       },
 
       // clear todos
