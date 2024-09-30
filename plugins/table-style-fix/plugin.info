@@ -11,5 +11,6 @@
   "qrcode": "yes",
   "created": "2024-02-23",
   "dependents": [],
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

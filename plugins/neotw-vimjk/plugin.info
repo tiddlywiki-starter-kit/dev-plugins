@@ -10,5 +10,6 @@
   "dependents": [
     "$:/plugins/tiddlywiki/codemirror-search-replace $:/plugins/tiddlywiki/codemirror-closebrackets"
   ],
-  "plugin-type": "plugin"
+  "plugin-type": "plugin",
+  "stability": "STABILITY_3_LEGACY"
 }

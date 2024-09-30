@@ -7,5 +7,6 @@
   "type": "application/json",
   "core-version": ">=5.2.7",
   "list": "readme",
-  "plugin-priority": 110
+  "plugin-priority": 110,
+  "stability": "STABILITY_3_LEGACY"
 }

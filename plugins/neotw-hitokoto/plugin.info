@@ -10,5 +10,6 @@
   "dependents": [
     "$:/plugins/oeyoew/tiddlywiki-modal-ui"
   ],
-  "list": "readme explore"
+  "list": "readme explore",
+  "stability": "STABILITY_3_LEGACY"
 }

@@ -10,5 +10,6 @@
   "meat#disabled": "yes",
   "qrcode": "yes",
   "created": "2024-01-29",
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

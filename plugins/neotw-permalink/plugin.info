@@ -8,5 +8,6 @@
   "plugin-type": "plugin",
   "name": "Neotw Permalink",
   "dependents": [],
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

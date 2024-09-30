@@ -8,5 +8,6 @@
   "plugin-type": "plugin",
   "name": "neotw-placeholder",
   "dependents": [],
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

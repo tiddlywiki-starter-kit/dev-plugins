@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       tiddlywiki:
-        specifier: ^5.3.5
+        specifier: 5.3.5
         version: 5.3.5
 
 packages:

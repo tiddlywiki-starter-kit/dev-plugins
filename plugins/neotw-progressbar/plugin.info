@@ -11,6 +11,6 @@
   "qrcode": "yes",
   "created": "2024-07-06",
   "dependents": [],
-  "stability": "STABILITY_2_STABLE",
+  "stability": "STABILITY_3_LEGACY",
   "list": "readme"
 }

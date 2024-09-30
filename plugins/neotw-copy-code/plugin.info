@@ -13,5 +13,6 @@
     "$:/plugins/oeyoews/neotw-icons",
     "$:/plugins/oeyoews/notify"
   ],
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

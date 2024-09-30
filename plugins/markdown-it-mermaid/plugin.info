@@ -13,5 +13,6 @@
   "updated": "2024-08-25",
   "parent-plugin": "$:/plugins/oeyoews/markdown-extensions-startup",
   "dependents": "$:/plugins/oeyoews/mermaid-lib",
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

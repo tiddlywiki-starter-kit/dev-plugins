@@ -12,5 +12,6 @@
     "$:/plugins/oeyoews/tiddlywiki-modal-ui",
     "$:/plugins/oeyoews/tiddlywiki-notify"
   ],
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

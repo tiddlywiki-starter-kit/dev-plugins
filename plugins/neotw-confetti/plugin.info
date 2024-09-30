@@ -7,5 +7,6 @@
   "core-version": ">=5.2.3",
   "description": "neotw-confetti",
   "author": "oeyoews",
-  "list": "readme explore"
+  "list": "readme explore",
+  "stability": "STABILITY_3_LEGACY"
 }

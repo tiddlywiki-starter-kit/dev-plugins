@@ -7,5 +7,6 @@
   "type": "application/json",
   "plugin-type": "plugin",
   "name": "Tiddlywiki Fancybox Ui",
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

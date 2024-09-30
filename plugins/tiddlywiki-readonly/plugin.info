@@ -8,5 +8,6 @@
   "plugin-type": "plugin",
   "name": "Tiddlywiki Readonly",
   "dependents": [],
-  "list": "readme explore"
+  "list": "readme explore",
+  "stability": "STABILITY_3_LEGACY"
 }

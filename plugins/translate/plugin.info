@@ -14,5 +14,6 @@
     "$:/plugins/oeyoews/nprogress",
     "$:/plugins/oeyoews/confetti"
   ],
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

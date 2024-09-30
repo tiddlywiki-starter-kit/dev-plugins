@@ -13,5 +13,6 @@
   "dependents": [
     "$:/plugins/oeyoews/neotw-vue3"
   ],
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

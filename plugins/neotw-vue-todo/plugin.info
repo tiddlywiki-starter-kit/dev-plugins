@@ -18,5 +18,6 @@
     "$:/plugins/oeyoews/vue-i18n",
     "$:/plugins/oeyoews/vue-dragable"
   ],
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

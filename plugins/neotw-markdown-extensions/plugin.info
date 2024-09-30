@@ -10,5 +10,6 @@
   "name": "Neotw Markdown Extensions",
   "meta#disable": "yes",
   "qrcode": "yes",
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

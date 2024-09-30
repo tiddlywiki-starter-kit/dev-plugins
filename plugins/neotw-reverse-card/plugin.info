@@ -10,5 +10,6 @@
   "dependents": [
     "$:/plugins/oeyoews/tiddlywiki-tailwindcss-plus"
   ],
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

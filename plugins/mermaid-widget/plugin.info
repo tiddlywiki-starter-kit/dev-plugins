@@ -11,5 +11,6 @@
   "qrcode": "yes",
   "created": "2024-01-11",
   "dependents": "$:/plugins/oeyoews/mermaid-lib",
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }

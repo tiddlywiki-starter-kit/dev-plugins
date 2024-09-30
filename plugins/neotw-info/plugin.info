@@ -12,5 +12,6 @@
     "$:/plugins/oeyoews/tiddlywiki-tailwindcss-plus",
     "$:/plugins/oeyoews/ejs"
   ],
-  "list": "readme"
+  "list": "readme",
+  "stability": "STABILITY_3_LEGACY"
 }
