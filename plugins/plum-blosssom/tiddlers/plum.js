@@ -92,7 +92,7 @@ module.exports = function (canvas) {
     // console.log('开始绘制');
 
     if (!prevSteps.length) {
-      console.log('cancle');
+      // console.log('cancle');
       raf && cancelAnimationFrame(raf);
       stopped = true;
     }

@@ -1,7 +1,7 @@
 /*\
 title: $:/plugins/oeyoews/tiddlywiki-fancybox-ui/startup.js
 type: application/javascript
-module-type: startup
+// module-type: startup
 
 fancybox
 \*/
@@ -17,7 +17,7 @@ fancybox
   exports.synchronous = true;
   exports.startup = () => {
     const init = require('./init');
-    const addDataFancy = require('./addDataFancy');
+    const addDataFancy = require('./addDataFancy.js');
 
     init();
     $tw.rootWidget.addEventListener('om-fancybox', () => {

@@ -1,0 +1,25 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      tiddlywiki:
+        specifier: ^5.3.5
+        version: 5.3.5
+
+packages:
+
+  tiddlywiki@5.3.5:
+    resolution: {integrity: sha512-8pTmnQdkcHbol9D86Op7OGK4sGDqm19HWT2qgpSxPHfDG0yJ2rSBUTRuOMuh9GoPP0Tcz9+1Pe8A1m6pvd/zYQ==}
+    engines: {node: '>=0.8.2'}
+    hasBin: true
+    bundledDependencies: []
+
+snapshots:
+
+  tiddlywiki@5.3.5: {}

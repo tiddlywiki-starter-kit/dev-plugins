@@ -1,0 +1,24 @@
+{
+  "name": "create-tw-apps",
+  "version": "1.1.0",
+  "description": "TiddlyWiki5 GettingStart Cli",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "scripts": {
+    "start": "tiddlywiki --listen",
+    "dev": "tiddlywiki --listen",
+    "build": "tiddlywiki --build"
+  },
+  "keywords": [
+    "template",
+    "tiddlywiki",
+    "nodejs"
+  ],
+  "author": "oeyoews <jyao4783@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tiddlywiki": "^5.3.1"
+  }
+}

@@ -1,7 +1,8 @@
 /*\
 title: $:/plugins/oeyoews/neotw-markdown-extensions/extensions.js
 type: application/javascript
-module-type: startup
+
+// module-type: startup
 
 Extension markdown-it
 \*/
